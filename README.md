@@ -1,6 +1,6 @@
 ## Desafio DevOps
 
-### Implantação de uma instância EC2 com Docker e Deploy de Código Site
+### Implantação de uma instância EC2 com Docker e Deploy de Site do Desafio
 
 Neste desafio DevOps, você será desafiado a criar e configurar uma instância EC2 na nuvem da Amazon Web Services (AWS), instalar o Docker nessa instância e realizar o deploy de um código contido nesse repositório.
 
@@ -23,6 +23,8 @@ Neste último passo, você deverá realizar o deploy do código neste repositór
 **Passo 5: Envio das evidências no Discord**
 
 Nesta última etapa você irá enviar as evidências do container rodando na ec2 e a página web que abre após o deploy do código.
-]
+
+A evidência que a app está rodando na EC2 será essa página: https://phvsdev.github.io/Challenge-One/
+
 
 Ao final deste desafio, você terá demonstrado suas habilidades em DevOps, mostrando a capacidade de configurar uma instância EC2, instalar o Docker, liberar o tráfego necessário e realizar o deploy de um código em um container. Isso reflete um cenário comum na prática DevOps, onde a automatização e a orquestração de infraestrutura são fundamentais para o desenvolvimento e implantação de aplicações modernas e escaláveis.
