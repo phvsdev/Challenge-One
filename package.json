@@ -1,0 +1,15 @@
+{
+    "name": "meu-site",
+    "version": "1.0.0",
+    "description": "Meu primeiro site",
+    "scripts": {
+      "start": "http-server -p 80",
+      "build": "echo 'Nenhuma ação de build necessária'"
+    },
+    "author": "Seu Nome",
+    "license": "MIT",
+    "dependencies": {
+      "http-server": "^0.12.3"
+    }
+  }
+  
